@@ -3,4 +3,4 @@
 
 Lesson Number | Topic
 --------------|------
-	01    | Pandas Basics
+01|Pandas Basics
